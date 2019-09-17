@@ -15,7 +15,7 @@
 * InDesign
 
 ### Education 
- * BSU, Faculty of Social and Cultural Communications, Department of Cultural Studies. Graduated in 2019.
+* BSU, Faculty of Social and Cultural Communications, Department of Cultural Studies. Graduated in 2019.
 * Basic HTML, CSS course at university
 * Rolling Scopes School Q3-2018
 
