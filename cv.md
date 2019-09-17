@@ -1,29 +1,18 @@
 # Tatiana Shadevskaya
 
-## Contact Info:
-* Email: ewashadevsk@gmail.com
-* telegram: @avewaii
+### Contact Info:
+* **Email:** ewashadevsk@gmail.com
+* **telegram:** [@avewaii](https://t.me/avewaii)
 
 ## Summary 
- goal,
-  wishes,
-  reveal what is important for you, what do you want and why.
-  good girl)))
+ I want to learn JS and become a cool web developer :)
 
 ## Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-* HTML, CSS (flexbox)
+* HTML, CSS
 * Git
 * BEM-naming
 * Photoshop
 * InDesign
-
-
-## Code examples (LATEST)
-
-
-## Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
 
 ## Education 
     * BSU, Faculty of Social and Cultural Communications, Department of Cultural Studies. Graduated in 2019.
@@ -32,3 +21,4 @@ Also it would be awesome if you add links to source code)
 
 ## English level
 A2+.
+I studied English at school and university, and now watch american youtube and different cartons for improving listening skill. Also I like thinking in English.
