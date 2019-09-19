@@ -1,0 +1,86 @@
+body {
+    background-color: #f5d4ee9d;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 1024px;
+    background-color: rgb(226, 185, 199);
+    padding: 50px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    /*background-color: brown;*/
+    height: 20em;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(88, 61, 61);
+}
+
+.general-photo {
+    width: 40%;
+    /*background-color: aqua;*/
+    height: 100%;
+}
+
+.general-info {
+    position: relative;
+    margin-left: 50px;
+    /*background-color: blue;*/
+    padding: 10px;
+}
+
+.general-info h1 {
+    text-align: center;
+}
+
+.contact-info {
+   /* background-color: rgb(94, 165, 47);*/
+   margin-left: 3em;
+    padding: 10px;
+
+}
+.contact-info li {
+    position: relative;
+    right: 2.5em;
+}
+
+.contact-info li {
+    list-style: none;
+}
+
+header img {
+    position: relative;
+    left: 5em;
+    margin-right: 20%;
+    height: 100%;
+}
+
+main {
+    padding: 1em 5em;
+    background-color: rgb(243, 226, 245);
+    padding-top: 2em;
+}
+
+.summary h2 {
+    text-align: center;
+}
+
+.skills li {
+    list-style: decimal;
+}
+p {
+    position: relative;
+    left: 2em;
+}

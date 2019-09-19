@@ -21,4 +21,4 @@
 
 ### English level
 A2+. 
-I studied English at school and university, and now watch american youtube and different cartons for improving listening skill. Also I like thinking in English.
+I studied English at school and university, and now watch american youtube and different cartoons for improving listening skill. Also I like thinking in English.
