@@ -18,7 +18,6 @@ body {
 
 header {
     display: flex;
-    /*background-color: brown;*/
     height: 20em;
     width: 100%;
 }
@@ -28,16 +27,19 @@ a {
     color: rgb(168, 101, 101);
 }
 
+p {
+    position: relative;
+    left: 2em;
+}
+
 .general-photo {
     width: 40%;
-    /*background-color: aqua;*/
     height: 100%;
 }
 
 .general-info {
     position: relative;
     margin-left: 50px;
-    /*background-color: blue;*/
     padding: 10px;
 }
 
@@ -46,7 +48,6 @@ a {
 }
 
 .contact-info {
-   /* background-color: rgb(94, 165, 47);*/
    margin-left: 3em;
     padding: 10px;
 
@@ -79,8 +80,4 @@ main {
 
 .skills li {
     list-style: decimal;
-}
-p {
-    position: relative;
-    left: 2em;
 }
